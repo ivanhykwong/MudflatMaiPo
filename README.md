@@ -12,7 +12,7 @@ Link to the poster: TBA
 
 GIS data produced from this study:
 
-*   **MudflatElevation_DeepBayHK_yyyy-yyyy.tif**: Raster data (GeoTiff format) showing the elevation of intertidal mudflats and the coverage of other features in the study area in four periods, including (i) 1991-2000, (ii) 2001-2010, (iii) 2011-2020, and (iv) 2020-2021. Refer to the above link for the methodology.
+*   **MudflatElevation_DeepBayHK_yyyy-yyyy.tif**: Raster data (GeoTiff format) showing the elevation of intertidal mudflats and the coverage of other features in the study area in four periods, including (i) 1991-2000, (ii) 2001-2010, (iii) 2011-2020, and (iv) 2020-2021. Refer to the poster for the detailed methodology.
   
 *   **MudflatElevation_DeepBayHK_symbology.csv**: Explanatory notes and a suggested symbology for different pixel values in the GeoTiff file following the figure below.
 
