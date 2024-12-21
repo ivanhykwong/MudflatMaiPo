@@ -2,11 +2,13 @@
 
 Supplementary materials used in the following presentation:
 
-**Kwong, I. H. Y., Lai, D. Y. F., Wong, F. K. K., & Fung, T. (2024). Topographic changes of intertidal mudflat in Deep Bay (Hong Kong) using Landsat and PlanetScope satellite imagery. Presented at AGU24, 9-13 December 2024.**
+**Kwong, I. H. Y., Lai, D. Y. F., Wong, F. K. K., & Fung, T. (2024). Topographic changes of intertidal mudflat in Deep Bay (Hong Kong) using Landsat and PlanetScope satellite imagery. Presented at American Geophysical Union (AGU) Annual Meeting 2024, 9-13 December 2024.**
 
-Link to the abstract: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1680250
+Link to AGU24 Session: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1680250
 
-Link to the poster: TBA
+ESS Open Archive: https://doi.org/10.22541/essoar.173445471.18731500/v1
+
+iPoster: https://agu24.ipostersessions.com/?s=75-45-52-44-23-92-B0-B7-78-D7-E9-8B-AF-D2-2C-00
 
 ---
 
