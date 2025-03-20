@@ -2,7 +2,7 @@
 
 Supplementary materials used in the following presentation:
 
-**Kwong, I. H. Y., Lai, D. Y. F., Wong, F. K. K., & Fung, T. (2024). Topographic changes of intertidal mudflat in Deep Bay (Hong Kong) using Landsat and PlanetScope satellite imagery. Presented at American Geophysical Union (AGU) Annual Meeting 2024, 9-13 December 2024.**
+**Kwong, I. H. Y., Lai, D. Y. F., Wong, F. K. K., & Fung, T. (2024). Topographic changes of intertidal mudflat in Deep Bay (Hong Kong) using Landsat and PlanetScope satellite imagery. Poster Presentation at American Geophysical Union (AGU) Annual Meeting 2024, 9-13 December 2024.**
 
 Link to AGU24 Session: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1680250
 
@@ -22,6 +22,16 @@ GIS data produced from this study:
 
 ---
 
+R code used in this study:
+
+*   **DeepBayHK_CreateMudflatFromLandsat.R**: Create elevation raster of intertidal mudflats from Landsat imagery for the first three periods (1991-2020)
+  
+*   **DeepBayHK_CreateMudflatFromPlanetScope.R**: Create elevation raster of intertidal mudflats from PlanetScope imagery for the last period (2020-2021) 
+
+*   **DeepBayHK_MudflatAnalysis.R**: Create figures in the poster based on the elevation rasters 
+
+---
+
 ![Fig6_Result](https://github.com/user-attachments/assets/59f62ec5-f89d-4a8f-a5ee-b037c5e86173)
 
-*Last updated in November 2024*
+*Last updated in March 2025*
